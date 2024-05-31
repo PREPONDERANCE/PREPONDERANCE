@@ -1,7 +1,14 @@
-### About Me ⭐
-- Name: Jim Gu
+### About Me
+
+Hi 🙋‍♂️, welcome to my GitHub account! I'm JimGu and is currently majoring in computer science.
+
+## Tech Stacks
+
+My current interests fall in Python development (Python backend dev to be more specific) along with software development and deep-learning. Here're some of my favored tools.
+
+- [FastAPI](https://github.com/tiangolo/fastapi)
+- [Django](https://github.com/django/django)
+
+## How to contact
 
 - Email: gwt200407@gmail.com
-
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PREPONDERANCE)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PREPONDERANCE&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------- | ------------- |
